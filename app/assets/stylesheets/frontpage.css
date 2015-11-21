@@ -1,0 +1,28 @@
+.first-half {
+
+	width:49%;
+	min-height:60em;
+	background-color:#C8C8C8 ;
+	float:left;
+	margin-right:1%;
+	position:relative;
+}
+
+.second-half {
+
+	width:49%;
+	min-height:60em;
+	background-color:gray;
+	float:right;
+}
+
+.first-half-pic {
+
+	background-image:url("https://scontent-lax3-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/428358_10150631328327089_1871480827_n.jpg?oh=ac7275cfac5e52090c406897b6b1f108&oe=56E1DF1D");
+	background-repeat:no-repeat;
+	height:70em;
+	background-position:top center; 
+	background-attachment: fixed;
+	width:100%;
+
+}
