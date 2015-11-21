@@ -11,3 +11,4 @@ Rails.application.config.assets.version = '1.0'
 # Rails.application.config.assets.precompile += %w( search.js )
 Rails.application.config.assets.precompile += %w( frontpage.css )
 Rails.application.config.assets.precompile += %w( splitscreen.js )
+# Rails.application.config.assets.precompile += %w( sliders.js )
