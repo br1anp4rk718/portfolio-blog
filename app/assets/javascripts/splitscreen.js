@@ -15,4 +15,7 @@ $(document).ready(function() {
 				$('.second-half').show("slide", {direction:"right"}, 2000);
 		});
 	});
+
+	$('.front-page-sticker').hide("bounce", { direction:"up"}, 5000);
+	$('div.container.first-half').css("background-color", "rgba(0, 0, 255, 0.3)");
 });
